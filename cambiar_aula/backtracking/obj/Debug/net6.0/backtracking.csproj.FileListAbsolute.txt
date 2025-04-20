@@ -1,0 +1,14 @@
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.AssemblyInfoInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.AssemblyInfo.cs
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.csproj.CoreCompileInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\bin\Debug\net6.0\backtracking.exe
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\bin\Debug\net6.0\backtracking.deps.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\bin\Debug\net6.0\backtracking.runtimeconfig.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\bin\Debug\net6.0\backtracking.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\bin\Debug\net6.0\backtracking.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\refint\backtracking.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\backtracking.genruntimeconfig.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\backtracking\backtracking\obj\Debug\net6.0\ref\backtracking.dll
