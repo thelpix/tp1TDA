@@ -1,0 +1,15 @@
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\bin\Debug\net8.0\SumaSubconjuntosBT.exe
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\bin\Debug\net8.0\SumaSubconjuntosBT.deps.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\bin\Debug\net8.0\SumaSubconjuntosBT.runtimeconfig.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\bin\Debug\net8.0\SumaSubconjuntosBT.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\bin\Debug\net8.0\SumaSubconjuntosBT.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.AssemblyInfoInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.AssemblyInfo.cs
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.csproj.CoreCompileInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.sourcelink.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\refint\SumaSubconjuntosBT.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\SumaSubconjuntosBT.genruntimeconfig.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guia 1\SumaSubconjuntosBT\SumaSubconjuntosBT\obj\Debug\net8.0\ref\SumaSubconjuntosBT.dll
