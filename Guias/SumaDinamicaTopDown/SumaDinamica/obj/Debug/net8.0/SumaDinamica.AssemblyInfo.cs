@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SumaSubconjuntosBT")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SumaDinamica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e9494e8bc67baf5428e9538dee6921130fc7d4")]
-[assembly: System.Reflection.AssemblyProductAttribute("SumaSubconjuntosBT")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SumaSubconjuntosBT")]
+[assembly: System.Reflection.AssemblyProductAttribute("SumaDinamica")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SumaDinamica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

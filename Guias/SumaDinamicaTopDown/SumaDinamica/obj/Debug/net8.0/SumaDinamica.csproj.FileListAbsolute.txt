@@ -1,0 +1,15 @@
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\bin\Debug\net8.0\SumaDinamica.exe
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\bin\Debug\net8.0\SumaDinamica.deps.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\bin\Debug\net8.0\SumaDinamica.runtimeconfig.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\bin\Debug\net8.0\SumaDinamica.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\bin\Debug\net8.0\SumaDinamica.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.AssemblyInfoInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.AssemblyInfo.cs
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.sourcelink.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\refint\SumaDinamica.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\SumaDinamica.genruntimeconfig.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\SumaDinamica\SumaDinamica\obj\Debug\net8.0\ref\SumaDinamica.dll
