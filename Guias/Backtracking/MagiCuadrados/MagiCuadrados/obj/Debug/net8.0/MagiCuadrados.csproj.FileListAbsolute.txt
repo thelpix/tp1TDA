@@ -1,0 +1,15 @@
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\bin\Debug\net8.0\MagiCuadrados.exe
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.AssemblyInfoInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.AssemblyInfo.cs
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.csproj.CoreCompileInputs.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.sourcelink.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\refint\MagiCuadrados.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\bin\Debug\net8.0\MagiCuadrados.deps.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\bin\Debug\net8.0\MagiCuadrados.runtimeconfig.json
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\bin\Debug\net8.0\MagiCuadrados.dll
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\bin\Debug\net8.0\MagiCuadrados.pdb
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\MagiCuadrados.genruntimeconfig.cache
+C:\Users\Ratzmann\Desktop\Programacion\UBA\TDA\Guias\MagiCuadrados\MagiCuadrados\obj\Debug\net8.0\ref\MagiCuadrados.dll

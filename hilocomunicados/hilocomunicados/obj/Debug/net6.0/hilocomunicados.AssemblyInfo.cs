@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hilocomunicados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8371a0dae45d21670eee98aac3f3a108278c47e")]
 [assembly: System.Reflection.AssemblyProductAttribute("hilocomunicados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hilocomunicados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

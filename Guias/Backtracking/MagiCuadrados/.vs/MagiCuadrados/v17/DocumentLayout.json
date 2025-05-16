@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ratzmann\\Desktop\\Programacion\\UBA\\TDA\\Guias\\MagiCuadrados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0916C4-7F4B-427A-9E65-3CB1E971F967}|MagiCuadrados\\MagiCuadrados.csproj|c:\\users\\ratzmann\\desktop\\programacion\\uba\\tda\\guias\\magicuadrados\\magicuadrados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0916C4-7F4B-427A-9E65-3CB1E971F967}|MagiCuadrados\\MagiCuadrados.csproj|solutionrelative:magicuadrados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ratzmann\\Desktop\\Programacion\\UBA\\TDA\\Guias\\MagiCuadrados\\MagiCuadrados\\Program.cs",
+              "RelativeDocumentMoniker": "MagiCuadrados\\Program.cs",
+              "ToolTip": "C:\\Users\\Ratzmann\\Desktop\\Programacion\\UBA\\TDA\\Guias\\MagiCuadrados\\MagiCuadrados\\Program.cs",
+              "RelativeToolTip": "MagiCuadrados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:39:13.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

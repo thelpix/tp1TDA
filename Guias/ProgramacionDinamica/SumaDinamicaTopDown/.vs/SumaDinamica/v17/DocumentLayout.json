@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ratzmann\\Desktop\\Programacion\\UBA\\TDA\\Guias\\SumaDinamicaTopDown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1862C172-EB1A-49B7-A7FB-3EF2889EF632}|SumaDinamica\\SumaDinamica.csproj|c:\\users\\ratzmann\\desktop\\programacion\\uba\\tda\\guias\\sumadinamicatopdown\\sumadinamica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C172-EB1A-49B7-A7FB-3EF2889EF632}|SumaDinamica\\SumaDinamica.csproj|solutionrelative:sumadinamica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ratzmann\\Desktop\\Programacion\\UBA\\TDA\\Guias\\SumaDinamicaTopDown\\SumaDinamica\\Program.cs",
+              "RelativeDocumentMoniker": "SumaDinamica\\Program.cs",
+              "ToolTip": "C:\\Users\\Ratzmann\\Desktop\\Programacion\\UBA\\TDA\\Guias\\SumaDinamicaTopDown\\SumaDinamica\\Program.cs",
+              "RelativeToolTip": "SumaDinamica\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:58:02.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
